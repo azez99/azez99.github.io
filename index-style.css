@@ -9,6 +9,7 @@
     align-content: center;
     text-align: center;
     color: whitesmoke;
+    min-width: 960px;
 }
 .menu-bar h1 {
     font-size: 70px;
